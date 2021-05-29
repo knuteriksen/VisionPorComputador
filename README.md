@@ -1,5 +1,5 @@
 # VisionPorComputador
-
+## Basic
 ### VPC_Practica_1
 Small report explaining the design/implementation of `Gender Recognition` and `Car Model Recognition` task.
 
@@ -10,14 +10,16 @@ In the XXX_Clean files you will only find code.
 In the XXX_Full files you will also see output from running the code in the corresponding Clean files.  
 Unfortunately, I did not save the Full file of the unconstricted gender recognition task.
 
-### CarModel
+## CarModel
 Bi-Linear CNN to recognize Car Models using pretrained VGG16.
 
-### GenderRecognitoin
-Basic CNN for gender recognition.
+## Gender Recognition
 
-### GenderRecognition100
-Basic CNN with less than 100 k parameters for gender recognition.
+### Unlimited parameters
+GenderRecognitoin: Basic CNN for gender recognition.
+
+### Max 100 k parameters
+GenderRecognition100: Basic CNN with less than 100 k parameters for gender recognition.
 
 ## Image colorization
 ### imagecolor
